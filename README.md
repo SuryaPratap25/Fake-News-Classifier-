@@ -1,1 +1,0 @@
-# Malria-Detection-Using-CNN-and-Tansfer-Learning
